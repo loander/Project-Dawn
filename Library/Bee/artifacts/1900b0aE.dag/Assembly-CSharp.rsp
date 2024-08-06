@@ -1,0 +1,536 @@
+-target:library
+-out:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll"
+-refout:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll"
+-define:UNITY_2021_3_41
+-define:UNITY_2021_3
+-define:UNITY_2021
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_INCLUDE_TESTS
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_VIRTUALTEXTURING
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:PLATFORM_STANDALONE
+-define:TEXTCORE_1_0_OR_NEWER
+-define:PLATFORM_STANDALONE_WIN
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_NVIDIA
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:NET_STANDARD
+-define:NET_STANDARD_2_1
+-define:NETSTANDARD
+-define:NETSTANDARD2_1
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"I:/Unity proj/2021.3.41f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"I:/Unity proj/dawn/Project Dawn/Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"I:/Unity proj/dawn/Project Dawn/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/VoxelPlayPostProcessingRef.ref.dll"
+"Assets/Voxel Play Mods/KaleidoDeer/TickSystem/Sources/Runtime/TickSystem.cs"
+"Assets/Voxel Play Mods/Kronnect/Excavator/Sources/Runtime/Scripts/Excavator.cs"
+"Assets/Voxel Play Mods/Kronnect/TerrainFarChunks/Sources/Runtime/TerrainFarChunks.cs"
+"Assets/Voxel Play Mods/Kronnect/TerrainMoreVoxels/Sources/Runtime/BiomeDefinitionMoreVoxels.cs"
+"Assets/Voxel Play Mods/Kronnect/TerrainMoreVoxels/Sources/Runtime/TerrainGeneratorMoreVoxels.cs"
+"Assets/Voxel Play/Demos/Demo1_World/Sources/DemoEarth.cs"
+"Assets/Voxel Play/Demos/Demo2_Colorizer/Sources/Colorizer.cs"
+"Assets/Voxel Play/Demos/Demo3_SimpleFlatTerrain/Sources/Demo.cs"
+"Assets/Voxel Play/Demos/Demo3_SimpleFlatTerrain/Sources/FoeController.cs"
+"Assets/Voxel Play/Demos/Demo4_ThirdPerson/Sources/DemoTPS.cs"
+"Assets/Voxel Play/Demos/Demo6_CreateVoxelGameObject/Sources/DemoModel.cs"
+"Assets/Voxel Play/Resources/VoxelPlay/InputControllers/Mobile/DualTouchController.cs"
+"Assets/Voxel Play/Resources/VoxelPlay/InputControllers/PC/KeyboardMouseController.cs"
+"Assets/Voxel Play/Resources/VoxelPlay/UI/VoxelPlayUIDefault.cs"
+"Assets/Voxel Play/Resources/Worlds/Earth/Items/Torch/TorchLightAnimator.cs"
+"Assets/Voxel Play/Resources/Worlds/Earth/Items/Weapons/GrenadeExploder.cs"
+"Assets/Voxel Play/Resources/Worlds/Earth/Models/DeerData.cs"
+"Assets/Voxel Play/Scripts/Private/Behaviours/DebugPosition.cs"
+"Assets/Voxel Play/Scripts/Private/Behaviours/ExportGlobalSettings.cs"
+"Assets/Voxel Play/Scripts/Private/Behaviours/Item.cs"
+"Assets/Voxel Play/Scripts/Private/Behaviours/LightSourceRemoval.cs"
+"Assets/Voxel Play/Scripts/Private/Behaviours/VoxelChunk.cs"
+"Assets/Voxel Play/Scripts/Private/Behaviours/VoxelCloudsAnimator.cs"
+"Assets/Voxel Play/Scripts/Private/Behaviours/VoxelPlaceholder.cs"
+"Assets/Voxel Play/Scripts/Private/Behaviours/VoxelPlaySaveThis.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/FirstPersonController/Scripts/CharacterLightAnimator.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/FirstPersonController/Scripts/CurveControlledBob.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/FirstPersonController/Scripts/FOVKick.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/FirstPersonController/Scripts/LerpControlledBob.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/FirstPersonController/Scripts/MouseLook.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/FirstPersonController/VoxelPlayFirstPersonController.Builder.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/FirstPersonController/VoxelPlayFirstPersonController.Crosshair.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/IVoxelPlayCharacterController.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/ThirdPersonController/VoxelPlayThirdPersonController.Crosshair.cs"
+"Assets/Voxel Play/Scripts/Private/CharacterControllers/VoxelPlayCharacterControllerBase.cs"
+"Assets/Voxel Play/Scripts/Private/Entities/CachedChunk.cs"
+"Assets/Voxel Play/Scripts/Private/Entities/InventoryItem.cs"
+"Assets/Voxel Play/Scripts/Private/Entities/LightSource.cs"
+"Assets/Voxel Play/Scripts/Private/Entities/Voxel.cs"
+"Assets/Voxel Play/Scripts/Private/Entities/VoxelHiddenData.cs"
+"Assets/Voxel Play/Scripts/Private/Entities/VoxelIndex.cs"
+"Assets/Voxel Play/Scripts/Private/Entities/VoxelProperty.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Chunks.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.ChunksManager.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.ChunksPool.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.ChunksUnload.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.ConnectedPrefabs.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.ConnectedTextures.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.ConnectedVoxels.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Events.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Illumination.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Illumination.Sun.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Illumination.Sun.Removal.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Illumination.Sun.Set.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Illumination.Torch.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Illumination.Torch.Removal.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Illumination.Torch.Set.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Items.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Main.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.MainThreading.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Models.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.NavMesh.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.OriginShift.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Particles.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Physics.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Renderer.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.SeeThrough.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Sky.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Textures.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.TextureVariations.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Time.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Trees.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Vegetation.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Voxels.cs"
+"Assets/Voxel Play/Scripts/Private/Environment/VoxelPlayEnvironment.Water.cs"
+"Assets/Voxel Play/Scripts/Private/Generators/VoxelPlayDetailGenerator.cs"
+"Assets/Voxel Play/Scripts/Private/Generators/VoxelPlayTerrainGenerator.cs"
+"Assets/Voxel Play/Scripts/Private/Input/VoxelPlayInputController.cs"
+"Assets/Voxel Play/Scripts/Private/InteractiveObjects/Door.cs"
+"Assets/Voxel Play/Scripts/Private/InteractiveObjects/VoxelHighlight.cs"
+"Assets/Voxel Play/Scripts/Private/InteractiveObjects/VoxelPlayInteractiveObjectsManager.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat10.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat11.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat12.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat13.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat5.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat6.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat7.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat8.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveBinaryFormat9.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveCommon.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveFormat1.0.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveFormat1.1.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/Obsolete/VoxelPlayEnvironment.LoadSaveFormat1.2.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/SaveGameCustomDataWriter.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/VoxelPlayEnvironment.LoadSaveBinary.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/VoxelPlayEnvironment.LoadSaveBinaryCommon.cs"
+"Assets/Voxel Play/Scripts/Private/LoadSave/VoxelPlayEnvironment.LoadSaveBinaryFormat14.cs"
+"Assets/Voxel Play/Scripts/Private/Player/IVoxelPlayPlayer.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancing/Batch.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancing/BatchedMesh.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancing/GPUInstancingRenderer.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancing/InstancedChunk.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancing/InstancedVoxel.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancing/VoxelDefinitionCustomData.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancingIndirect/Batch.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancingIndirect/BatchedCell.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancingIndirect/BatchedMesh.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancingIndirect/GPUInstancingIndirectRenderer.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancingIndirect/InstancedChunk.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GPUInstancingIndirect/InstancedVoxel.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GreedyMesher/IVoxelPlayGreedyMesherLit.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GreedyMesher/VoxelPlayGreedyCommon.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GreedyMesher/VoxelPlayGreedyMesher.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GreedyMesher/VoxelPlayGreedyMesherLit.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GreedyMesher/VoxelPlayGreedyMesherLitAO.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GreedyMesher/VoxelPlayGreedySlice.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GreedyMesher/VoxelPlayGreedySliceLit.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/GreedyMesher/VoxelPlayGreedySliceLitAO.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/IGPUInstancingRenderer.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/MeshingThreads/MeshingThread.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/MeshingThreads/MeshingThreadTriangle.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/PointLights/VoxelPlayLightManager.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/PostProcessing/Builtin/VoxelPlayPostProcessing.cs"
+"Assets/Voxel Play/Scripts/Private/Rendering/ShaderParams.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/BiomeDefinition.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/CaveDefaultGenerator.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/ColorToVoxelMap.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/ConnectedTexture.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/ConnectedVoxel.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/FastFlatTerrainGenerator.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/ItemDefinition.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/ModelDefinition.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/NullTerrainGenerator.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/PrefabSpawner.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/TerrainDefaultGenerator.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/TextureVariations.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/UnityTerrainGenerator.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/VillageDefaultGenerator.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/VoxelDefinition.cs"
+"Assets/Voxel Play/Scripts/Private/ScriptableObjects/WorldDefinition.cs"
+"Assets/Voxel Play/Scripts/Private/UI/IVoxelPlayUI.cs"
+"Assets/Voxel Play/Scripts/Private/UI/VoxelPlayUI.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/ArrayExtensions.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/Boundsd.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/BufferPool.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/FastFixedBuffer.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/FastHashSet.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/FastIndexedList.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/FastList.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/FastMath.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/FastVector.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/GameObjectExtensions.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/GeometryUtilityNonAlloc.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/HeightMapCache.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/Mathd.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/Misc.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/NoiseTools.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/NoiseTools.TileablePerlin.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/NoteAttribute.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/Rayd.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/TextureArrayPacker.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/TextureProviderSettings.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/TextureTools.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/Vector3d.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/VRCheck.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/WaterFloodList.cs"
+"Assets/Voxel Play/Scripts/Private/Utility/WorldRand.cs"
+"Assets/Voxel Play/Scripts/Tools/QubicleImporter.cs"
+"Assets/Voxel Play/Scripts/Tools/VoxelPlayConverter.cs"
+"Assets/Voxel Play/Scripts/VoxelPlayBehaviour.cs"
+"Assets/Voxel Play/Scripts/VoxelPlayEnvironment.cs"
+"Assets/Voxel Play/Scripts/VoxelPlayFirstPersonController.cs"
+"Assets/Voxel Play/Scripts/VoxelPlayInteractiveObject.cs"
+"Assets/Voxel Play/Scripts/VoxelPlayLight.cs"
+"Assets/Voxel Play/Scripts/VoxelPlayPlayer.cs"
+"Assets/Voxel Play/Scripts/VoxelPlayThirdPersonController.cs"
+-langversion:9.0
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+/nowarn:0169
+/nowarn:0649
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+/additionalfile:"Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.AdditionalFile.txt"
